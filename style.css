@@ -80,7 +80,7 @@ body {
   color: hsl(300, 69%, 71%);
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1200px) {
   .header {
     margin: 7% 0 10% 15%;
   }
@@ -125,8 +125,7 @@ body {
     opacity: 0;
   }
 }
-
-@media (max-width: 550px) {
+@media (max-width: 768px) {
   .header {
     margin: 7% 0 10% 13%;
   }
@@ -161,7 +160,7 @@ body {
     right: 36%;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 576px) {
   .header {
     margin: 7% 0 10% 9%;
   }
