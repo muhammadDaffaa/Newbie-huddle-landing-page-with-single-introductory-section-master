@@ -60,7 +60,9 @@ body {
   color: black;
   cursor: pointer;
   background-color: white;
+  font-size: 90%;
 }
+
 .content-button:hover {
   color: white;
   background-color: hsl(300, 69%, 71%);
@@ -160,7 +162,7 @@ body {
     right: 36%;
   }
 }
-@media (max-width: 576px) {
+@media (max-width: 375px) {
   .header {
     margin: 7% 0 10% 9%;
   }
